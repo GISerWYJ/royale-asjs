@@ -60,6 +60,8 @@
     <module>Text</module>
     <module>TLF</module>
     <module>RoyaleSite</module>
+    <module>Vivid</module>
+    <module>VividBlueTheme</module>
   </modules>
 
   <profiles>
