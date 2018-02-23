@@ -25,5 +25,6 @@
     <component id="TextButton" class="org.apache.royale.vivid.TextButton"/>
     <component id="TextField" class="org.apache.royale.vivid.TextField"/>
     <component id="Slider" class="org.apache.royale.vivid.Slider"/>
+    <component id="RadioButton" class="org.apache.royale.vivid.RadioButton"/>
     
 </componentPackage>

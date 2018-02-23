@@ -33,6 +33,8 @@ package
 	    {
             import org.apache.royale.vivid.beads.SliderThumbView; SliderThumbView;
             import org.apache.royale.vivid.beads.SliderTrackView; SliderTrackView;
+
+            import org.apache.royale.vivid.beads.RadioButtonView; RadioButtonView;
         }
 
     }
